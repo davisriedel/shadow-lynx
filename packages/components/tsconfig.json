@@ -1,0 +1,10 @@
+{
+  "extends": ["../../packages/config/tsconfig.json"]
+  "compilerOptions": {
+    "forceConsistentCasingInFileNames": true,
+    "baseUrl": ".",
+    "paths": {
+      "@/*": ["./src/*"]
+    }
+  }
+}

@@ -1,5 +1,5 @@
 {
-  "name": "shadow-lynx-registry",
+  "name": "@shadow-lynx/registry",
   "scripts": {
     "dev": "bun run --hot src/index.ts"
   },
